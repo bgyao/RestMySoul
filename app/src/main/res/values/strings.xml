@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Rest My Soul</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_goals">Goals</string>
+    <string name="title_read">Read</string>
+    <string name="new_goal">+ New</string>
+    <string name="header_bible_reading">Bible Reading</string>
+    <string name="goals_empty">No goals. Click \"+ New\" to add.</string>
+    <string name="not_updated">Not yet updated.</string>
+    <string name="no_entry">No entries available.</string>
+    <string name="update">Update</string>
+    <string name="edit_goal">Edit Goal</string>
+    <string name="daily_tasks">Daily Goals</string>
+    <string name="no_goals">No goals yet. Add Goal.</string>
+    <string name="daily_goal_reading">Read the Bible today.</string>
+    <string name="daily_goal_pray">Pray (#) times today.</string>
+    <string name="book_title">Genesis</string>
+    <string name="book_chapter">1</string>
+    <string name="book_version">ESV</string>
+    <string name="book_chapter_contents">The sample text goes here. Since this is a text from the Bible, there should be HTML elements here like paragraphs, and text transforming properties like superscript.</string>
+    <string name="book_version_copyright"><![CDATA[&copy; 2022. All rights reserved. The copyright of the book version goes here.]]></string>
+    <string name="error_invalid_ssl_cert">Invalid SSL Certificate!</string>
+    <string name="continue_btn_label">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_generic">Oops! Something went wrong.</string>
+    <string name="form_goal_select">Select Goal:</string>
+    <string name="form_count_chapters">Number of chapters to read per day:</string>
+    <string name="times_a_day">How many times a day?</string>
+    <string name="form_fasting_type">What type of fasting?</string>
+    <string name="form_input_other_fast_type">Enter type of fast:</string>
+    <string name="form_prayer_meetings">Will you attend prayer meeting(s)?</string>
+    <string name="addGoalButton">Add Goal</string>
+    <string name="form_numdays">Number of days to finish this goal:</string>
+    <string name="feature_coming_soon">This feature is coming soon!</string>
+    <string name="features_toFollow">We will display here a summary of the goals you need to attend to on a daily basis, and a customizable Verse of the Day.</string>
+    <string name="features_forNow">For now, click \"Goals\" to start!</string>
+    <string name="email">Email Address:</string>
+    <string name="password">Password:</string>
+    <string name="create_account"><u>Create an account</u></string>
+    <string name="email_address">Email Address</string>
+    <string name="login">Login</string>
+    <string name="new_user">New user?</string>
+    <string name="header_devotional">Devotions</string>
+    <string name="header_prayer">Prayer</string>
+    <string name="header_fasting">Fasting</string>
+
+    <string-array name="goals_array">
+        <item>Bible Reading</item>
+        <item>---The features below are coming soon!---</item>
+        <item>Devotion</item>
+        <item>Prayer</item>
+        <item>Fasting</item>
+    </string-array>
+
+    <string-array name="count_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+
+</resources>

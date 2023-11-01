@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/drawable/goal_border_box_done.xml" value="0.2" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/drawable/goal_border_box_new.xml" value="0.197" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/drawable/goal_border_box_undone.xml" value="0.196" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/drawable/goal_box_unavailable.xml" value="0.208" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/drawable/home_border_box.xml" value="0.2385" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/layout/activity_login.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/layout/activity_new_goal.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/layout/activity_signup.xml" value="0.16324786324786325" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/layout/fragment_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/layout/fragment_goals.xml" value="0.2" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/layout/fragment_notifications.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/layout/fragment_read.xml" value="0.264" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/layout/fragment_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/layout/item_goals.xml" value="0.2" />
+        <entry key="..\:/Users/ciit/AndroidStudioProjects/RestMySoul/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
